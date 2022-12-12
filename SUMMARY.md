@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [Lab1](Lab1.md)
