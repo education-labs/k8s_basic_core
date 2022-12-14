@@ -9,7 +9,7 @@
 * [Lab 2 - 컨테이너 관리 Object](L2.md)
     * [Task 1 - Pod](L2/L2T1.md)
     * [Task 2 - Namespace](L2/L2T2.md)
-    * [Task 3 - Deployment](L2/L2T3.md)
+    * [Task 3 - Replicaset](L2/L2T3.md)
     * [Task 4 - Deployment](L2/L2T4.md)
 * [Lab 3](L3.md)
     * [Task 1 - ](L2/L2T1.md)
