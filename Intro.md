@@ -4,5 +4,5 @@
 --------
 > WorkSpace : AWS Console / AWS Cloud9  
 > AWS Region : apnortheast-2 (Seoul)  
-> Cluster : AWS EKS Cluster  
-> 실습 단계 중 <> 표현은 고유한 입력값을 의미 (IP, Name 등)
+> Cluster : AWS<> EKS Cluster  
+> 실습 단계 중 표현은 고유한 입력값을 의미 (IP, Name 등)
