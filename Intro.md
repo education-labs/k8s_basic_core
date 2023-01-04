@@ -14,13 +14,13 @@
 (ⅰ) (AWS)  
 Task 1. EC2 배포  
 Task 2. Cloud9 배포 및 EC2 접속  
-Task 3. Container Runtime/kubeadm/kubectl/kubelet 설치  
+Task 3. CRI-O/kubeadm/kubectl/kubelet 설치  
 Task 4. 클러스터 초기화 및 Master-Worker조인  
 
 (ⅱ) (VirtualBox)  
 Task 1. 가상머신 만들기  
 Task 2. IP 설정 및 Putty 로 접속  
-Task 3. Container Runtime/kubeadm/kubectl/kubelet 설치  
+Task 3. CRI-O/kubeadm/kubectl/kubelet 설치  
 Task 4. 클러스터 초기화 및 Master-Worker조인  
 
 Ⅱ. Pod 배포  
